@@ -10,4 +10,6 @@
 loadstring(game:HttpGet(""))()
 ```
 
+**made by lucas.001xx ( Discord )**
+
 **Base:** [AndycScpt](https://github.com/AndycScpt/dex/tree/main) [LorekeeperZinnia](https://github.com/LorekeeperZinnia/Dex)
