@@ -7,7 +7,7 @@
 **CollectionService Viewer** is a modified version of Dex for viewing Roblox's CollectionService.
 
 ```lua
-loadstring(game:HttpGet(""))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Lucas01x/CollectionService-Viewer/refs/heads/main/Main.luau"))()
 ```
 
 **made by lucas.001xx ( Discord )**
